@@ -1,5 +1,5 @@
 # ToAsc
-vim plugin to change quotes and dashes to ascii characters
+This is a vim plugin to change quotes and dashes to ascii characters
 
 This plugin will change all unicode quote marks (single and double) and the long and short dashes to ascii characters.
 
